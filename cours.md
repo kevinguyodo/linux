@@ -32,7 +32,9 @@ Mais il est doté de trop de dossiers, or tous ont pour nom des chiffres sauf 12
 
 Et en fin nous avons : 
 
-https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%203.PNG?raw=true
+![alt_text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%203.PNG?raw=true)
+
+
 
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%204.PNG?raw=true)
 
