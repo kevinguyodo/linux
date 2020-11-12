@@ -10,7 +10,6 @@ tree = le format que l'on veut afficher
 
 Nous avons donc grâce à la commande tree -d -L 1, le résultat suivant qui nous donne les répertoires principaux :
 
-
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%201.PNG?raw=true)
 
 Dès à présent, je veux en connaître davantage sur la composition de ses répertoires, pour cela j'ai uniquement à changer le chiffre de ma commande pour m'afficher plus de "branche".
@@ -35,9 +34,7 @@ Et en fin nous avons :
 
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%203.PNG?raw=true)
 
-
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%204.PNG?raw=true)
-
 
 Et nous pouvons voir qu'il y a en tout 434 répertoires en affichant uniquement que deux branches de l'architecture de Linux
 
