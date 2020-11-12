@@ -18,8 +18,30 @@ Dès à présent, je veux en connaître davantage sur la composition de ses rép
 J'exécute donc la commande suivante tree -d -L 2, et j'ai donc les résultats suivant :
 
 Ceci est le résultat pour les trois premiers principaux répertoires: 
+
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/bin%20boot%20dev.PNG?raw=true)
 
+Nous avons ensuite, le répertoire ce nommant : etc 
+
+Celui-ci est composé de trop de dossier pour que ce soit afficher en une image, il est composé notament de dossier se nommant : ssh, python, vim, terminfo, security ...
+
+Puis nous avons ensuite : 
+
+![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%201.PNG?raw=true)
+
+Mais encore nous avons un grand répertoire nommé : proc
+
+Mais il est doté de trop de dossiers, or tous ont pour nom des chiffres sauf 12 d'entre-eux.
+
+
+Et en fin nous avons : 
+
+![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%203.PNG?raw=true)
+
+
+![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%204.PNG?raw=true)
+
+Et nous pouvons voir qu'il y a en tout 434 répertoires en affichant uniquement que deux branches de l'architecture de Linux
 
 
 
