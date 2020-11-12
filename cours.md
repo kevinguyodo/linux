@@ -21,18 +21,15 @@ Ceci est le résultat pour les trois premiers principaux répertoires:
 
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/bin%20boot%20dev.PNG?raw=true)
 
-Nous avons ensuite, le répertoire ce nommant : etc 
-
-Celui-ci est composé de trop de dossier pour que ce soit afficher en une image, il est composé notament de dossier se nommant : ssh, python, vim, terminfo, security ...
+Nous avons ensuite, le répertoire ce nommant : etc .
+Celui-ci est composé de trop de dossier pour que ce soit afficher en une image
 
 Puis nous avons ensuite : 
 
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%202.PNG?raw=true)
 
-Mais encore nous avons un grand répertoire nommé : proc
-
+Mais encore nous avons un grand répertoire nommé : proc .
 Mais il est doté de trop de dossiers, or tous ont pour nom des chiffres sauf 12 d'entre-eux.
-
 
 Et en fin nous avons : 
 
