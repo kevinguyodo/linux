@@ -8,6 +8,11 @@ tree = le format que l'on veut afficher
 
 -L (nombre_que_l'on_veut)= Le nombre que l'on va choisir derrière est décisif dans le résultat que nous allons obtenir, ce sera le nombre de "branche" de l'arbre afficher dans chaque dossier principaux
 
+Nous avons donc grâce à la commande tree -d -L 1, le résultat suivant qui nous donne les répertoires principaux :
+
+
+![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%201.PNG?raw=true)
+
 
 
 
