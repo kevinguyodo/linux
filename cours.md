@@ -40,50 +40,52 @@ Et en fin nous avons :
 
 Et nous pouvons voir qu'il y a en tout 434 répertoires en affichant uniquement que deux branches de l'architecture de Linux
 
+
+
 Utilité de chaque répertoire :
 
 Chaque répertoire à sa propre utilité, tous sont indispensable, nous allons donc voir chaque utilité de chaque répertoire :
 
-bin (binaries) = contient un ensemble de fichiers exécutables représentant les commandes que l’on peut adresser au système.
+. bin (binaries) = contient un ensemble de fichiers exécutables représentant les commandes que l’on peut adresser au système.
 
-boot = va permettre à linux de démarrer.
+. boot = va permettre à linux de démarrer.
 
-dev (device) = contient des fichiers spéciaux représentant les point d'entrées de tous les périphériques.
+. dev (device) = contient des fichiers spéciaux représentant les point d'entrées de tous les périphériques.
 
-etc (editing text config) = contient la plupart des fichiers de configuration (passwd, group ...).
+. etc (editing text config) = contient la plupart des fichiers de configuration (passwd, group ...).
 
-home = répertoire personnel des utilisateurs.
+. home = répertoire personnel des utilisateurs.
 
-lib (librairies) = contient les bibliothèques partagées essentielles au système lors du démarrage.
+. lib (librairies) = contient les bibliothèques partagées essentielles au système lors du démarrage.
 
-lib 32/x32/64 = idem que lib mais pour les 32 ou 64 bits.
+. lib 32/x32/64 = idem que lib mais pour les 32 ou 64 bits.
 
-lost+found = si on exécute la commande fsck (commande de réparation du système de fichier), elle peut trouver des fragments de données qui ne sont référencés nulle part dans le système de fichiers.
+. lost+found = si on exécute la commande fsck (commande de réparation du système de fichier), elle peut trouver des fragments de données qui ne sont référencés nulle part dans le système de fichiers.
 
-media = tous les médias, CD-ROM, HDD USB, clé USB seront monté automatiquement dans ce dossier.
+. media = tous les médias, CD-ROM, HDD USB, clé USB seront monté automatiquement dans ce dossier.
 
-mnt (mount) = il s'agit d'un point de montage générique sous lequel vous montez vos systèmes de fichiers ou périphériques. 
+. mnt (mount) = il s'agit d'un point de montage générique sous lequel vous montez vos systèmes de fichiers ou périphériques. 
 Le montage est le processus par lequel vous mettez un système de fichiers à la disposition du système.
 
-opt (optional) = réservé à l'installation de package de logiciels d'application supplémentaires.
+. opt (optional) = réservé à l'installation de package de logiciels d'application supplémentaires.
 
-proc (process) = répertoire virtuel ne prenant aucune place sur le disque. Contient des informations sur le système (noyau, processus).
+. proc (process) = répertoire virtuel ne prenant aucune place sur le disque. Contient des informations sur le système (noyau, processus).
 
-root = le répertoire de l'administrateur système.
+. root = le répertoire de l'administrateur système.
 
-run (runtime system) =  contient des informations relatives au système concernant les utilisateurs et les services en cours d'exécution.
+. run (runtime system) =  contient des informations relatives au système concernant les utilisateurs et les services en cours d'exécution.
 
-sbin (super binaries) = les commandes de base nécessaires a l'administration système (vérification et réparation des disques, mise en place du réseau...).
+. sbin (super binaries) = les commandes de base nécessaires a l'administration système (vérification et réparation des disques, mise en place du réseau...).
 
-srv (services) = contient les données des services de type serveur.
+. srv (services) = contient les données des services de type serveur.
 
-sys = contient des informations entre le système et ses composants matériels.
+. sys = contient des informations entre le système et ses composants matériels.
 
-tmp (temporary) = contient les fichiers temporaires des utilisateurs et du système, ce dossier est purgé à chaque démarrage (et non à l'arrêt).
+. tmp (temporary) = contient les fichiers temporaires des utilisateurs et du système, ce dossier est purgé à chaque démarrage (et non à l'arrêt).
 
-usr (Unix System Resources)= les logiciels installés avec le système (documents, man ...).
+. usr (Unix System Resources)= les logiciels installés avec le système (documents, man ...).
 
-var (variable) = les ficiers dont le contenu est susceptible de changer.
+. var (variable) = les ficiers dont le contenu est susceptible de changer.
 
 Histoire linux :
 
