@@ -13,6 +13,13 @@ Nous avons donc grâce à la commande tree -d -L 1, le résultat suivant qui nou
 
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%201.PNG?raw=true)
 
+Dès à présent, je veux en connaître davantage sur la composition de ses répertoires, pour cela j'ai uniquement à changer le chiffre de ma commande pour m'afficher plus de "branche".
+
+J'exécute donc la commande suivante tree -d -L 2, et j'ai donc les résultats suivant :
+
+Ceci est le résultat pour les trois premiers principaux répertoires: 
+![alt text](https://github.com/kevinguyodo/linux/blob/main/bin%20boot%20dev.PNG?raw=true)
+
 
 
 
