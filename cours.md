@@ -27,7 +27,7 @@ Celui-ci est composé de trop de dossier pour que ce soit afficher en une image,
 
 Puis nous avons ensuite : 
 
-![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%201.PNG?raw=true)
+![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%202.PNG?raw=true)
 
 Mais encore nous avons un grand répertoire nommé : proc
 
