@@ -38,6 +38,7 @@ Et en fin nous avons :
 
 ![alt text](https://github.com/kevinguyodo/linux/blob/main/Cours%20linux%204.PNG?raw=true)
 
+
 Et nous pouvons voir qu'il y a en tout 434 répertoires en affichant uniquement que deux branches de l'architecture de Linux
 
 
